@@ -1,1 +1,1 @@
-# minecraft-datapack-unique-fishing
+# Unique Fishing
