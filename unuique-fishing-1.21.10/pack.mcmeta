@@ -1,6 +1,9 @@
 {
   "pack": {
     "pack_format": 88,
-    "description": "Unique Fish"
+    "description": "Unique Fish - Pictostudio",
+    "supported_formats": [88, 500],
+    "min_format": 88,
+    "max_format": 500
   }
 }
